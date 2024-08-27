@@ -20,3 +20,12 @@ img {
     color: orange;
     text-shadow: 2px 2px 2px black;
 }
+
+.carousel-inner .carousel-item img {
+    width: 500px;
+}
+
+footer p {
+    margin: 0px;
+    padding: 10px;
+}
